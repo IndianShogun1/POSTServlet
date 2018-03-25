@@ -1,0 +1,17 @@
+org/shreyansh/osgiDemo/services/UseImpl.class
+org/shreyansh/osgiDemo/services/StudentStatus.class
+org/shreyansh/osgiDemo/post/UseImpl.class
+org/shreyansh/osgiDemo/services/SomeOtherService.class
+org/shreyansh/osgiDemo/services/DeleteStudent.class
+org/shreyansh/osgiDemo/services/StudentClassService.class
+org/shreyansh/osgiDemo/services/AddStudent.class
+org/shreyansh/osgiDemo/services/ClassConfiguration.class
+org/shreyansh/osgiDemo/post/ListOrders.class
+org/shreyansh/osgiDemo/services/ClassConfigurationService.class
+org/shreyansh/osgiDemo/htl/UseImpl.class
+org/shreyansh/osgiDemo/htl/ListChildren.class
+org/shreyansh/osgiDemo/services/Student.class
+org/shreyansh/osgiDemo/services/SomeService.class
+org/shreyansh/osgiDemo/htl/SomeService.class
+org/shreyansh/osgiDemo/SimpleDSComponent.class
+org/shreyansh/osgiDemo/htl/ListChildrenService.class
